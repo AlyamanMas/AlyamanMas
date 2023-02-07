@@ -3,10 +3,9 @@ Hi! I'm Alyaman Massarani, a Syrian Computer Science student at the American Uni
 My interests in technology are innumerable and include Linux, Open source/FOSS, Rust, Web development, system administration, containerization (Docker/Kubernetes),
 and to a lesser degree, cyber security, and A.I./ML.
 
-I've recently become interested in Philosophy though I'm still new and suck at it :(
+I've recently become interested in Philosophy, though I'm still new and suck at it :(
 
-You can contact me:
-- work@alyamanmas.xyz
+You can contact me at:
 - alyaman.maasarani@gmail.com
 
 Or connect with me on:
