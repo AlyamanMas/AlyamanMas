@@ -8,7 +8,7 @@ You can contact me at:
 - alyamanmas@aucegypt.edu
 
 Or connect with me on:
-- [Linkedin](https://www.linkedin.com/in/alyaman-maasarani-2b4814197/)
+- [Linkedin](https://www.linkedin.com/in/alyamanmassarani/)
 
 <!---
 AlyamanMas/AlyamanMas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
